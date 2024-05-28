@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         var x = 0
+        var y=0
+        x=y+3
+
     }
 }
