@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
         var y=0
         x=y+3
 
-        y=x-2
+        y=x-200
 
     }
 }
